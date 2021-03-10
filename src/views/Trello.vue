@@ -2,7 +2,7 @@
   <div>
     <Header />
     <main class="app-main">
-      <TrelloDashboard v-if="this.todoTasks.length || this.inProgressTasks.length || this.completedTasks.length">
+      <TrelloDashboard v-if="todoTasks.length || inProgressTasks.length || completedTasks.length">
         <TrelloColumn
           v-for="({ id, color, text }, index) in taskColumns"
           :key="index"
