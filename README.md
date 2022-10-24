@@ -1,4 +1,8 @@
-# vue-demo
+# Test assigment Vue Trello Copy
+
+https://odmenwl-test-assigment-vue-trello.netlify.app/
+
+![image](https://user-images.githubusercontent.com/39830370/197561011-25c25350-6897-41d4-9969-251981924167.png)
 
 ## Project setup
 ```
